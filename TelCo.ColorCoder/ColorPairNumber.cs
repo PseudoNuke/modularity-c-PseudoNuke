@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using static TelCo.ColorCoder.ColourSpace;
+using static TelCo.ColorCoder.ColorSpace;
 using System.Text;
 using System.Drawing;
 
