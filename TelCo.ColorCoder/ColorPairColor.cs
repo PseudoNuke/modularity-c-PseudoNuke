@@ -4,10 +4,10 @@ using System.Drawing;
 
 namespace TelCo.ColorCoder
 {
-    class Color_Pair_Color
+    class ColorPairColor
     {
         private ColorSpace space;
-        public Color_Pair_Color()
+        public ColorPairColor()
         {
             space = new ColorSpace();
         }
