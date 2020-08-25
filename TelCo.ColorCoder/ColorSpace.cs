@@ -6,7 +6,7 @@ using System.Diagnostics;
 
 namespace TelCo.ColorCoder
 {
-    class ColourSpace
+    class ColorSpace
     {
         protected static Color[] colorMapMajor;
 
